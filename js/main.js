@@ -376,7 +376,7 @@
                     error: function() {
     
                         sLoader.slideUp("slow"); 
-                        $('.message-warning').html("Something went wrong. Please try again.");
+                        $('.message-warning').html(" We are sorry. Contact form Plugins are under mainteneace. Please use Whatsapp, Facebook or Instagram to contact.");
                         $('.message-warning').slideDown("slow");
     
                     }
