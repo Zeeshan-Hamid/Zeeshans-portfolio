@@ -709,20 +709,6 @@ a.pswp__share--download:hover {
  * You can play with it here - http://codepen.io/dimsemenov/pen/yyBWoR
  * ------------------------------------------------------------------- */
 
-.pswp__preloader {
-    width: 44px;
-    height: 44px;
-    position: absolute;
-    top: 0;
-    left: 50%;
-    margin-left: -22px;
-    opacity: 0;
-    -webkit-transition: opacity 0.25s ease-out;
-    transition: opacity 0.25s ease-out;
-    will-change: opacity;
-    direction: ltr;
-}
-
 .pswp__preloader__icn {
     width: 20px;
     height: 20px;
